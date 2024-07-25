@@ -13,7 +13,7 @@ pip install pygame pyinstaller
 ```
 
 ```bash
-pyinstaller --onefile --add-data "haruhikage_mygo.wav;." main.py
+pyinstaller --onefile --add-data "haruhikage_mygo.wav;." --icon "soyorn.ico" main.py
 ```
 
 ## License
