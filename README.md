@@ -1,2 +1,2 @@
-# Haruhikage.cpp
+# Haruhikage.exe
 One click play Haruhikage.
