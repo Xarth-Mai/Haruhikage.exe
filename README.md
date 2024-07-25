@@ -1,6 +1,6 @@
 # なんで春日影やったの！
 
-One-click to play "Haruhikage."
+One-click to play "Haruhikage"
 
 ワンクリックで「春日影」を再生。
 
